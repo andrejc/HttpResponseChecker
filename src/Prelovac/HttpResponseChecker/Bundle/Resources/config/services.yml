@@ -1,0 +1,7 @@
+parameters:
+#    response_checker.example.class: Prelovac\HttpResponseChecker\Bundle\Example
+
+services:
+#    response_checker.example:
+#        class: %response_checker.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
